@@ -1,5 +1,5 @@
-    import streamlit as st
-    import random
+import streamlit as st
+import random
     
     st.set_page_config(
         page_title="지금 뭐먹고싶니?",
